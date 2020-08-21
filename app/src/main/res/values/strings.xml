@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="add_book">Add Book</string>
+</resources>
